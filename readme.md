@@ -1,8 +1,8 @@
 todo list para me ajudar com as tarefas do trabalho
 
-- [] CREATE
-- [] UPDATE
-- [] INSERT
-- [] DELETE
+- [x] CREATE
+- [x] UPDATE
+- [x] INSERT
+- [x] DELETE
 
-aonde vai ser salvo?
+aonde vai ser salvo? json e boa
